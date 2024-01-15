@@ -21,8 +21,8 @@
 ### 1. Clone repo
 
 ```
-$ git clone git@github.com:basir/mern-amazona.git
-$ cd mern-Amazonia
+$ git clone git@github.com:MahimaSingh/AmazoneClone.git
+$ cd mern-AmazoneClone
 ```
 
 ### 2. Create .env File
